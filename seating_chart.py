@@ -1,6 +1,10 @@
 import numpy as np
 from numpy import random
 
+# Author - Jackson Gamel
+# Sci Computing SP 25
+
+
 rows = int(input("Enter number of rows: "))
 cols = int(input("Enter number of chairs per row: "))
 total_seats = rows * cols
